@@ -6,7 +6,7 @@ A GitHub Actions workflow that lets you download files into your repository just
 
 ----12345
 throne r
-## ⚙️ Setup
+## ⚙️ Setupp
 slipnet
 shir
 0. Fork this repo
